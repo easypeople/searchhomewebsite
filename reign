@@ -1,0 +1,56 @@
+<!DOCTYPE html><!-- 文档类型 -->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Bilibili新闻中心</title>
+<style >
+h1{color:#3C3C3C;
+}
+#c{
+width:65%;
+margin:0 auto;
+}
+#time{
+color:#968D92;
+}
+#bv{
+color:#3C3C3C;
+}
+a{
+color:black;
+text-decoration:none;
+}
+p{
+text-indent:35px;
+line-height:20px;
+
+}
+#mz{
+text-align:right;
+}
+</style>
+</head>
+<body>
+<div id="c">
+<img  src="2.png"> <a href="https://www.bilibili.com/?spm_id_from=333.1007.0.0" target="_self">Biliili新闻中心</a> >正文
+<h1>Bilibili新闻中心:《圣诞快乐劳伦斯先生》天津道乐团演奏</h1>
+<hr>
+<span id="time">2023-03-21 09:00:00  </span>      <span id="bv"> <a href="https://www.bilibili.com/video/BV1mM4y117Mc/?spm_id_from=333.1007.tianma.2-2-4.click&vd_source=106515b98137fcac2f71401c3b25bbc3" target="_blank">BV1mM4y117Mc</a> </span>
+<hr>
+<video src="教学视频.mp4" controls width="950px"></video>
+<br>
+<audio src="1.mp3" controls></audio>
+<br>
+<p>
+1942年，第二次世界大战正进行得如火如荼，日本在亚洲各战场所向披靡，无往不利。在南洋爪哇岛的热带丛林中，有一所日军战俘看守所，由陆军大尉世野井（坂本龙一饰）和原上士（北野武饰）共同管理看守所。原作风粗鲁，冷酷无情，他对待欧美战俘从来不留情面，对自己的士兵也非常严格。英军俘虏劳伦斯（汤姆·康蒂饰）虽然不是俘虏队长，但由于精通日语，所以经常和日军打交道，尤其是和原上士。英国军官杰克由于组织游击战被捕后被送到收容所，世野井被这个英俊的"理想军官"所吸引而变得异常神经质。
+</p>
+<br>
+<p>
+收容所中很盛行同性恋，原上士的严酷处置也无济于事，世野井疯狂地命令鸡奸荷兰战俘的朝鲜看守剖腹自杀谢罪，受此事牵连，劳伦斯和杰克被关禁闭。原上士在圣诞之夜释放了劳伦斯和杰克，并对劳伦斯说了一声："劳伦斯，圣诞快乐。"由于英军俘虏队长拒绝提供战俘中军械师和能操纵大炮的军官的名单，世野井决定处死他。就在行刑之际，杰克当着全体俘虏和日本兵的面，拥抱并亲吻了世野井。世野井在极度震撼之下身躯摇摇欲坠。队长虽然获救了，杰克却被埋在土里，只露一个头，无人理睬。在杰克死亡之前，世野井出现在他身边，向他行了军礼，并割去他一撮头发。战争结束后不久，劳伦斯在狱中又见到了原上士，两人现在身份互换，不觉感慨万千。在劳伦斯离去之前，原再次向劳伦斯说了一声：<strong>"圣诞快乐，劳伦斯先生！"</strong>
+</p>
+<p id="mz">
+责编：任美臣
+</p>
+</div>
+</body>
+</html>
